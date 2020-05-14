@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/linuxdistro/buildroot/modules/hello/khello.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/ubuntu/linuxdistro/buildroot/modules/hello/khello.ko /home/ubuntu/linuxdistro/buildroot/modules/hello/khello.o /home/ubuntu/linuxdistro/buildroot/modules/hello/khello.mod.o ;  true

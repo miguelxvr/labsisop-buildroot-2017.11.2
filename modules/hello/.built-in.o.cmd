@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/linuxdistro/buildroot/modules/hello/built-in.o :=  rm -f /home/ubuntu/linuxdistro/buildroot/modules/hello/built-in.o; ar rcSTPD /home/ubuntu/linuxdistro/buildroot/modules/hello/built-in.o
